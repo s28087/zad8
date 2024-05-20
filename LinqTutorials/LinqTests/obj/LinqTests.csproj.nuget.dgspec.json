@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s28087\\Desktop\\zad8\\LinqTutorials\\LinqTests\\LinqTests.csproj": {}
+    "C:\\Users\\nieis\\Desktop\\zad8\\LinqTutorials\\LinqTests\\LinqTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s28087\\Desktop\\zad8\\LinqTutorials\\LinqTasks\\LinqTasks.csproj": {
+    "C:\\Users\\nieis\\Desktop\\zad8\\LinqTutorials\\LinqTasks\\LinqTasks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s28087\\Desktop\\zad8\\LinqTutorials\\LinqTasks\\LinqTasks.csproj",
+        "projectUniqueName": "C:\\Users\\nieis\\Desktop\\zad8\\LinqTutorials\\LinqTasks\\LinqTasks.csproj",
         "projectName": "LinqTasks",
-        "projectPath": "C:\\Users\\s28087\\Desktop\\zad8\\LinqTutorials\\LinqTasks\\LinqTasks.csproj",
-        "packagesPath": "C:\\Users\\s28087\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s28087\\Desktop\\zad8\\LinqTutorials\\LinqTasks\\obj\\",
+        "projectPath": "C:\\Users\\nieis\\Desktop\\zad8\\LinqTutorials\\LinqTasks\\LinqTasks.csproj",
+        "packagesPath": "C:\\Users\\nieis\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nieis\\Desktop\\zad8\\LinqTutorials\\LinqTasks\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\s28087\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\nieis\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -34,11 +32,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -60,36 +53,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\nieis\\.dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\s28087\\Desktop\\zad8\\LinqTutorials\\LinqTests\\LinqTests.csproj": {
+    "C:\\Users\\nieis\\Desktop\\zad8\\LinqTutorials\\LinqTests\\LinqTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s28087\\Desktop\\zad8\\LinqTutorials\\LinqTests\\LinqTests.csproj",
+        "projectUniqueName": "C:\\Users\\nieis\\Desktop\\zad8\\LinqTutorials\\LinqTests\\LinqTests.csproj",
         "projectName": "LinqTests",
-        "projectPath": "C:\\Users\\s28087\\Desktop\\zad8\\LinqTutorials\\LinqTests\\LinqTests.csproj",
-        "packagesPath": "C:\\Users\\s28087\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s28087\\Desktop\\zad8\\LinqTutorials\\LinqTests\\obj\\",
+        "projectPath": "C:\\Users\\nieis\\Desktop\\zad8\\LinqTutorials\\LinqTests\\LinqTests.csproj",
+        "packagesPath": "C:\\Users\\nieis\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nieis\\Desktop\\zad8\\LinqTutorials\\LinqTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\s28087\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\nieis\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\s28087\\Desktop\\zad8\\LinqTutorials\\LinqTasks\\LinqTasks.csproj": {
-                "projectPath": "C:\\Users\\s28087\\Desktop\\zad8\\LinqTutorials\\LinqTasks\\LinqTasks.csproj"
+              "C:\\Users\\nieis\\Desktop\\zad8\\LinqTutorials\\LinqTasks\\LinqTasks.csproj": {
+                "projectPath": "C:\\Users\\nieis\\Desktop\\zad8\\LinqTutorials\\LinqTasks\\LinqTasks.csproj"
               }
             }
           }
@@ -98,11 +89,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -146,7 +132,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\nieis\\.dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
